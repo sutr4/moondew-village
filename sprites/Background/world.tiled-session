@@ -1,0 +1,76 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/DELL WIN 10/Desktop/moondew village/sprites/Land Sprites/world.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/DELL WIN 10/Desktop/moondew village/sprites/Land Sprites/world.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 463.875,
+                "y": 85.75
+            }
+        },
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/Wooden House.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/basement.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/basement_tilemap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 187.66666666666669,
+                "y": 133.33333333333331
+            }
+        },
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/spritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Grass.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/DELL WIN 10/Desktop/moondew village/sprites/Background",
+    "last.imagePath": "C:/Users/DELL WIN 10/Desktop/moondew village/sprites/Land Sprites",
+    "map.height": 23,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Water.tsx",
+        "C:/Users/DELL WIN 10/Desktop/moondew village/sprites/Land Sprites/world.tmx",
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/Wooden House.tsx",
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/spritesheet.tsx"
+    ],
+    "project": "world.tiled-project",
+    "recentFiles": [
+        "Water.tsx",
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/spritesheet.tsx",
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/Wooden House.tsx",
+        "C:/Users/DELL WIN 10/Desktop/moondew village/sprites/Land Sprites/world.tmx",
+        "C:/Users/DELL WIN 10/Downloads/sutra game/data/Sprites/Basement Sprites/basement_tilemap.tmx",
+        "Grass.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
