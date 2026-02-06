@@ -1,7 +1,6 @@
 # 🌙 Moondew Valley
 
-A Stardew Valley–inspired farming and life-simulation game built using Pygame as part of my ICS3U1 culminating assignment.  
-The game features farming, exploration, NPC interaction, and a time-based gameplay system in a 2D tile-based world.
+A Stardew Valley–inspired farming and life-simulation game built using Pygame as part of my ICS3U1 culminating assignment. This game features farming, exploration, NPC interaction, and a time-based gameplay system in a 2D tile-based world.
 
 ## 📸 Screenshots
 <p align="center">
@@ -61,8 +60,6 @@ This project was developed as the culminating assignment for the ICS3U1 high sch
 ## ⚠️ Disclaimer
 Moondew Valley is a fan-made student project inspired by Stardew Valley.  
 This project is for educational purposes only and is not affiliated with or endorsed by the original creators.
-
----
 
 ## 👤 Author
 Created by Tracy Su  
