@@ -9,6 +9,7 @@ The game features farming, exploration, NPC interaction, and a time-based gamepl
   <img src="sprites/Gameplay Screenshots/gameplay.png" width="340">
   <img src="sprites/Gameplay Screenshots/dialogue.png" width="340">
   <img src="sprites/Gameplay Screenshots/shop.png" width="340">
+  <img src="sprites/UI/Menu/settings.png>" width="340">
 </p>
 
 ## 🎮 Features
