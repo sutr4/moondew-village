@@ -11,13 +11,13 @@ A Stardew Valley–inspired farming and life-simulation game built using Pygame 
 </p>
 
 ## 🎮 Key Features
-- ⏰ **Day/Night System**: Time-based progression with an in-game clock and day counter.
-- 🧑 **Interactable NPCs** with day-based dialogue, quests, and relationship-based gifting mechanics.
-- 🌱 **Farming Mechanics**: Crop planting, growth cycles, and harvesting.
-- 🎒 **Inventory System**: Item storage and management for crops and tools.
-- 🗺️ **Tile-Based World**: 2D map with collision detection and spatial boundaries.
-- 🎮 **Player Controls**: Grid-based movement and object interaction.
-- 🎨 **Custom Assets**: Custom sprites and UI elements.
+- **Day/Night System**: Time-based progression with an in-game clock and day counter.
+- **Interactable NPCs** with day-based dialogue, quests, and relationship-based gifting mechanics.
+- **Farming Mechanics**: Crop planting, growth cycles, and harvesting.
+- **Inventory System**: Item storage and management for crops and tools.
+- **Tile-Based World**: 2D map with collision detection and spatial boundaries.
+- **Player Controls**: Grid-based movement and object interaction.
+- **Custom Assets**: Custom sprites and UI elements.
 
 
 ## 🛠️ Tech Stack
