@@ -1,4 +1,4 @@
-# 🌙 Moondew Valley
+# 🌙 Moondew Village
 
 A Stardew Valley–inspired farming and life-simulation game built using Pygame as part of my ICS3U1 culminating assignment. This game features farming, exploration, NPC interaction, and a time-based gameplay system in a 2D tile-based world.
 
