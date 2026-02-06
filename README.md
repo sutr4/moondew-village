@@ -4,6 +4,15 @@ Moondew Valley is a **Stardew Valley–inspired farming and life-simulation game
 The game features farming, exploration, NPC interaction, and a time-based gameplay system in a 2D tile-based world.
 
 ---
+## 📸 Screenshots
+<p align="center">
+  <img src="sprites/Gameplay Screenshots/gameplay.png" width="700">
+</p>
+
+<p align="center">
+  <img src="sprites/Gameplay Screenshots/dialogue.png.png" width="340">
+  <img src="sprites/Gameplay Screenshots/shop.png.png" width="340">
+</p>
 
 ## 🎮 Features
 - ⏰ **Day/Night time system** with a day counter  
@@ -44,18 +53,18 @@ The game features farming, exploration, NPC interaction, and a time-based gamepl
 --- 
 
 ## 📚 Project Context
-This project was developed for the ICS3U1 high school computer science course as a culminating assignment.
+This project was developed for the ICS3U1 high school computer science course as a culminating assignment.  
 All code, assets, and game systems were created to demonstrate programming skills learned throughout the course.
 
 ---
 
 ## ⚠️ Disclaimer
-Moondew Valley is a fan-made student project inspired by Stardew Valley.
+Moondew Valley is a fan-made student project inspired by Stardew Valley.  
 This project is for educational purposes only and is not affiliated with or endorsed by the original creators.
 
 ---
 
 ## 👤 Author
-Created by Tracy Su
-ICS3U1 — Computer Science
-Milliken Mills High School
+Created by Tracy Su  
+ICS3U1 — Computer Science  
+Milliken Mills High School  
